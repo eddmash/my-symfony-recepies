@@ -1,0 +1,10 @@
+{
+  "aliases": ["eddmas-permission"],
+  "bundles": {
+     "Eddmash\\PermissionBundle\\PermissionBundle": ["all"]
+  },
+  "copy-from-recipe": {
+    "config/": "%CONFIG_DIR%/"
+  }
+
+}
