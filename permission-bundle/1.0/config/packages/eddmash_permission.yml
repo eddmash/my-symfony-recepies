@@ -1,2 +1,2 @@
 #eddmash_permission:
-    #user: 'App\Entity\User'
+    #user_entity: 'App\Entity\User'
