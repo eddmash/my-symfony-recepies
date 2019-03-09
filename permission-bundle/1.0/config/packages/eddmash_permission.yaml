@@ -1,2 +1,3 @@
 #eddmash_permission:
+    # replace with your user entity
     #user_entity: 'App\Entity\User'
